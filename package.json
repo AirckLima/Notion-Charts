@@ -1,0 +1,17 @@
+{
+  "name": "notion-charts",
+  "version": "1.0.0",
+  "description": "Uma extenção que implementa funcionalidades de gráficos à plataforma Notion",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "plotly.js-dist": "^2.27.1",
+    "plotly.js-dist-min": "^2.27.1",
+    "vite": "^5.0.6"
+  },
+  "type": "module"
+}
